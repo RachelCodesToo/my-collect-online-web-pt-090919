@@ -1,5 +1,7 @@
 def my_collect(array)
   empty_array = []
-  
-end
+  my_collect(collection) do |lang| 
+    lang.upcase
+    
+  end
 
