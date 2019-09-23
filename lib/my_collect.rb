@@ -1,8 +1,7 @@
 def my_collect(collection)
-  empty_array = []
-  counter = 0 
-    my_collect(empty_array) do |x|
-      counter += 1 
+  i = 0 
+  
+  
     end
   end 
   
